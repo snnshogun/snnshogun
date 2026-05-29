@@ -9,11 +9,13 @@
   
 - 👨‍💻 All of my projects are available at [repositories](#)
   
-- 📫 How to reach me: **[snnshogun@gmail.com]**
+- 📫 How to reach me: [snnshogun@gmail.com](mailto:snnshogun@gmail.com)
 
   
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sinan-a-882a5a229/)
+<a href="https://www.linkedin.com/in/sinan-a-882a5a229" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 ### Languages and Tools:
 <p align="left"> 
