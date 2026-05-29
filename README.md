@@ -7,7 +7,7 @@
   
 - 🔬 I also conduct R&D projects supported by **TÜBİTAK 2209-A/B** and develop applications using the **Kuika** low-code platform.
   
-- 👨‍💻 All of my projects are available at [repositories](#)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/snnshogun?tab=repositories)
   
 - 📫 How to reach me: [snnshogun@gmail.com](mailto:snnshogun@gmail.com)
 
